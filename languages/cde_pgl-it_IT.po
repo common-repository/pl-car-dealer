@@ -1,0 +1,593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Car dealer\n"
+"POT-Creation-Date: 2016-04-30 13:14+0100\n"
+"PO-Revision-Date: 2016-04-30 13:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: CMB2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: CMB2/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: CMB2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr "Riprova di nuovo"
+
+#: CMB2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: CMB2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: CMB2/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: CMB2/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: CMB2/includes/CMB2_Field.php:978 CMB2/includes/CMB2_Field.php:982
+msgid "None"
+msgstr "Nessuno"
+
+#: CMB2/includes/CMB2_JS.php:86 CMB2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr "Cancella"
+
+#: CMB2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr "Colore attuale"
+
+#: CMB2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr "Succ."
+
+#: CMB2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr "Prec."
+
+#: CMB2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:118 CMB2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr "Eseguito"
+
+#: CMB2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr "Utilizza questo file:"
+
+#: CMB2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:137 CMB2/includes/CMB2_Types.php:1004
+msgid "Remove Image"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:138 CMB2/includes/CMB2_Types.php:357
+#: CMB2/includes/CMB2_Types.php:1023
+msgid "Remove"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:139 CMB2/includes/CMB2_Types.php:1018
+msgid "File:"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:140 CMB2/includes/CMB2_Types.php:1021
+msgid "Download"
+msgstr ""
+
+#: CMB2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: CMB2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr "Aggiungi riga"
+
+#: CMB2/includes/CMB2_Types.php:749 CMB2/includes/CMB2_Types.php:797
+msgid "No terms"
+msgstr "Nessun termine"
+
+#: CMB2/includes/CMB2_Types.php:864
+msgid "Add or Upload Files"
+msgstr "Aggiungere o Carica file"
+
+#: CMB2/includes/CMB2_Types.php:926
+msgid "Add or Upload File"
+msgstr "Aggiungi o carica file"
+
+#: CMB2/includes/helper-functions.php:250
+msgid "Save"
+msgstr "Salva"
+
+#: PL-car-dealer.php:27
+msgid "Vehicles"
+msgstr "Veicoli"
+
+#: PL-car-dealer.php:28 PL-car-dealer.php:201
+msgid "Vehicle"
+msgstr "﻿Veicolo"
+
+#: PL-car-dealer.php:29
+msgid "Add"
+msgstr "Aggiungi"
+
+#: PL-car-dealer.php:30
+msgid "Add new vehicle"
+msgstr "Aggiungi nuovo veicolo"
+
+#: PL-car-dealer.php:31
+msgid "Update vehicle"
+msgstr "Aggiorna veicolo"
+
+#: PL-car-dealer.php:32
+msgid "New vehicle"
+msgstr "Nuovo veicolo"
+
+#: PL-car-dealer.php:33
+msgid "All the vehicles"
+msgstr "Tutti i veicoli"
+
+#: PL-car-dealer.php:34
+msgid "View vehicle"
+msgstr "Guarda veicolo"
+
+#: PL-car-dealer.php:35
+msgid "Search vehicle"
+msgstr "Ricerca veicolo"
+
+#: PL-car-dealer.php:36
+msgid "No result found"
+msgstr "Nessun risultato trovato"
+
+#: PL-car-dealer.php:37
+msgid "No result in trash"
+msgstr "Non trovato nel cestino"
+
+#: PL-car-dealer.php:49
+msgid "vehicle"
+msgstr "veicolo"
+
+#: PL-car-dealer.php:71
+msgid "Makes"
+msgstr "Marche"
+
+#: PL-car-dealer.php:109
+msgid "Vehicle features"
+msgstr "Caratteristiche del veicolo"
+
+#: PL-car-dealer.php:120 templates/single-vehicle.php:24
+msgid "Make"
+msgstr "Marca"
+
+#: PL-car-dealer.php:121
+msgid "Choose the make"
+msgstr "Scegli la marca"
+
+#: PL-car-dealer.php:128 templates/single-vehicle.php:31
+msgid "Model"
+msgstr "Modello"
+
+#: PL-car-dealer.php:129
+msgid "Model of the vehicle"
+msgstr "Modello del veicolo"
+
+#: PL-car-dealer.php:135 PL-car-dealer.php:204
+msgid "Year"
+msgstr "Anno"
+
+#: PL-car-dealer.php:136
+msgid "Construction year of the vehicle"
+msgstr "Anno di costruzione del veicolo"
+
+#: PL-car-dealer.php:142 PL-car-dealer.php:205
+#: templates/single-vehicle.php:36
+msgid "Mileage"
+msgstr "Chilometraggio"
+
+#: PL-car-dealer.php:143
+msgid "Mileage of the vehicle"
+msgstr "Chilometraggio del veicolo"
+
+#: PL-car-dealer.php:151
+msgid "Fuel"
+msgstr "Carburante"
+
+#: PL-car-dealer.php:152
+msgid "Choose the fuel type"
+msgstr "Scegli il tipo di carburante"
+
+#: PL-car-dealer.php:157
+msgid "benzine"
+msgstr "benzina"
+
+#: PL-car-dealer.php:158
+msgid "diesel"
+msgstr ""
+
+#: PL-car-dealer.php:159
+msgid "LPG"
+msgstr "GPL"
+
+#: PL-car-dealer.php:160
+msgid "methane"
+msgstr "metano"
+
+#: PL-car-dealer.php:161
+msgid "electric"
+msgstr "elettrica"
+
+#: PL-car-dealer.php:162
+msgid "mixed"
+msgstr "Misto"
+
+#: PL-car-dealer.php:167 PL-car-dealer.php:203
+#: templates/single-vehicle.php:41
+msgid "Price"
+msgstr "Prezzo"
+
+#: PL-car-dealer.php:168
+msgid "Price of the vehicle"
+msgstr "Prezzo del veicolo"
+
+#: PL-car-dealer.php:176 templates/single-vehicle.php:58
+msgid "Photos"
+msgstr "Foto"
+
+#: PL-car-dealer.php:202
+msgid "Thumbs"
+msgstr ""
+
+#: PL-car-dealer.php:206
+msgid "Featured"
+msgstr "In evidenza"
+
+#: PL-car-dealer.php:232 PL-car-dealer.php:248 PL-car-dealer.php:264
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+#: PL-car-dealer.php:236 PL-car-dealer.php:268
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: PL-car-dealer.php:252
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: PL-car-dealer.php:513
+msgid "Vehicle Search Widget"
+msgstr "Widget Ricerca Veicoli"
+
+#: PL-car-dealer.php:516
+msgid "widget for searching a vehicle"
+msgstr "Widget Ricerca Veicoli"
+
+#: PL-car-dealer.php:536 PL-car-dealer.php:796
+msgid "Name: "
+msgstr "Nome:"
+
+#: PL-car-dealer.php:537 PL-car-dealer.php:797
+msgid "Type the Car Name"
+msgstr "Digitare il nome della vettura"
+
+#: PL-car-dealer.php:539 PL-car-dealer.php:799
+msgid "Make: "
+msgstr "Marche:"
+
+#: PL-car-dealer.php:545 PL-car-dealer.php:805
+msgid "All the makes"
+msgstr "Tutte le marche"
+
+#: PL-car-dealer.php:552 PL-car-dealer.php:812
+msgid "Max Mileage: "
+msgstr "Max Chilometraggio:"
+
+#: PL-car-dealer.php:553 PL-car-dealer.php:813
+msgid "Maximum mileage"
+msgstr "Chilometraggio massimo"
+
+#: PL-car-dealer.php:555 PL-car-dealer.php:815
+msgid "Max price: "
+msgstr "Prezzo max:"
+
+#: PL-car-dealer.php:556 PL-car-dealer.php:816
+msgid "Maximum Price"
+msgstr "Prezzo massimo"
+
+#: PL-car-dealer.php:558 PL-car-dealer.php:818
+msgid "Min Year: "
+msgstr "Min Anno:"
+
+#: PL-car-dealer.php:559 PL-car-dealer.php:819
+msgid "Minimum Year of Constr."
+msgstr "Minimo Anno di costr."
+
+#: PL-car-dealer.php:577
+msgid "New title"
+msgstr "Nuovo titolo"
+
+#: PL-car-dealer.php:582 PL-car-dealer.php:689
+msgid "Title:"
+msgstr "Titolo:"
+
+#: PL-car-dealer.php:612
+msgid "Allows you to create a new Sidebar widget to display makes!"
+msgstr "Consente di creare un nuovo widget per visualizzare le marche!"
+
+#: PL-car-dealer.php:653
+msgid "New Title"
+msgstr "Nuovo titolo"
+
+#: PL-car-dealer.php:694
+msgid "Options:"
+msgstr "Opzioni:"
+
+#: PL-car-dealer.php:698
+msgid "Hide Widget If There Are No Makes To Be Displayed?"
+msgstr "Nascondi il widget se non vi sono marche da mostrare ?"
+
+#: PL-car-dealer.php:703
+msgid "Hide Makes That Have No Related Vehicles?"
+msgstr "Nascondi marche che non hanno veicoli ?"
+
+#: PL-car-dealer.php:707
+msgid "Order Makes By:"
+msgstr "Ordina marche per:"
+
+#: PL-car-dealer.php:709
+msgid "ID Ascending"
+msgstr "ID Crescente"
+
+#: PL-car-dealer.php:710
+msgid "ID Descending"
+msgstr "ID decrescente"
+
+#: PL-car-dealer.php:711
+msgid "Count Ascending"
+msgstr "Numero Crescente"
+
+#: PL-car-dealer.php:712
+msgid "Count Descending"
+msgstr "Numero decrescente"
+
+#: PL-car-dealer.php:713
+msgid "Name Ascending"
+msgstr "Nome Crescente"
+
+#: PL-car-dealer.php:714
+msgid "Name Descending"
+msgstr "Nome Decrescente"
+
+#: PL-car-dealer.php:715
+msgid "Slug Ascending"
+msgstr "Slug Crescente"
+
+#: PL-car-dealer.php:716
+msgid "Slug Descending"
+msgstr "Slug decrescente"
+
+#: PL-car-dealer.php:721
+msgid "Maximum Number Of Makes To Return:"
+msgstr "Numero massimo di marche da mostrare:"
+
+#: PL-car-dealer.php:722
+msgid "Keep Empty To Display All"
+msgstr "Lasciare Vuoto Per visualizzare tutti"
+
+#: PL-car-dealer.php:726
+msgid "Ids To Exclude From Being Displayed:"
+msgstr "ID da escludere dalla visualizzazione:"
+
+#: PL-car-dealer.php:727 PL-car-dealer.php:732
+msgid "Separate ids with a comma ,"
+msgstr "Separa gli ID con una virgola,"
+
+#: PL-car-dealer.php:731
+msgid "Only Display Makes With The Following Ids:"
+msgstr "Mostra marche con i seguenti ID:"
+
+#: PL-car-dealer.php:868 PL-car-dealer.php:947
+#: templates/advanced-vehicle-results.php:108
+#: templates/archive-vehicle.php:72
+msgid "No Image"
+msgstr "Nessuna immagine"
+
+#: PL-car-dealer.php:877 PL-car-dealer.php:956
+#: templates/advanced-vehicle-results.php:118
+#: templates/archive-vehicle.php:82
+#, php-format
+msgid "<strong>Year: </strong> %s"
+msgstr "<strong>Anno: </strong> %s"
+
+#: PL-car-dealer.php:879 PL-car-dealer.php:958
+#: templates/advanced-vehicle-results.php:120
+#: templates/archive-vehicle.php:84
+msgid "<strong>"
+msgstr ""
+
+#: PL-car-dealer.php:880 PL-car-dealer.php:959
+#: templates/advanced-vehicle-results.php:121
+#: templates/archive-vehicle.php:85
+msgid "Take a look"
+msgstr "Scheda"
+
+#: classes/cde_admin.php:39
+msgid "Car Dealer"
+msgstr ""
+
+#: classes/cde_admin.php:109
+msgid "Mileage abbreviation"
+msgstr "Abbreviazione Chilometraggio"
+
+#: classes/cde_admin.php:110
+msgid "Used for mileage"
+msgstr "Usato per chilometraggio"
+
+#: classes/cde_admin.php:116
+msgid "Money symbol"
+msgstr "Valuta in uso, simbolo"
+
+#: classes/cde_admin.php:117
+msgid "For all vehicle"
+msgstr "Per tutti i veicoli"
+
+#: classes/cde_admin.php:136
+msgid "Settings updated."
+msgstr ""
+
+#: templates/advanced-vehicle-results.php:89
+msgid "Advanced results"
+msgstr "Risultati ricerca avanzata"
+
+#: templates/advanced-vehicle-results.php:141
+#: templates/archive-vehicle.php:105
+msgid "Nothing Found"
+msgstr "Non è stato trovato nulla"
+
+#: templates/advanced-vehicle-results.php:145
+msgid "Apologies, but no results were found."
+msgstr "Siamo spiacenti, ma non è stato trovato alcun risultato."
+
+#: templates/archive-vehicle.php:37
+msgid "Sort vehicles by:"
+msgstr "Ordina veicoli per:"
+
+#: templates/archive-vehicle.php:39
+msgid "price"
+msgstr "prezzo"
+
+#: templates/archive-vehicle.php:40
+msgid "year"
+msgstr "anno"
+
+#: templates/archive-vehicle.php:41
+msgid "mileage"
+msgstr "Chilometraggio"
+
+#: templates/archive-vehicle.php:46
+msgid "ASC"
+msgstr ""
+
+#: templates/archive-vehicle.php:47
+msgid "DESC"
+msgstr "(decr)"
+
+#: templates/archive-vehicle.php:109
+msgid "Apologies, but no results were found. "
+msgstr "Siamo spiacenti, ma non è stato trovato alcun risultato."
+
+#~ msgid "Type the Car Make"
+#~ msgstr "Digita la marca del veicolo"
+
+#~ msgid "Description"
+#~ msgstr "Descrizione"
+
+#~ msgid "User Field"
+#~ msgstr "Campo utente"
+
+#~ msgid "<strong>Km: </strong> %s"
+#~ msgstr "<strong>Km:</strong> %s"
+
+#~ msgid ""
+#~ "Apologies, but no results were found. Perhaps searching will help find a "
+#~ "related post."
+#~ msgstr ""
+#~ "Spiacenti, ma non è stato trovato alcun risultato. Forse eseguendo una "
+#~ "ricerca riuscirai a trovare un articolo correlato a quello che stai "
+#~ "cercando."
+
+#~ msgid "All"
+#~ msgstr "TUTTO"

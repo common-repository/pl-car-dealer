@@ -1,0 +1,158 @@
+.cde_thumbnail {
+
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  min-height: 400px;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+       -o-transition: border .2s ease-in-out;
+          transition: border .2s ease-in-out;
+}
+.cde_thumbnail > img {
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+.cde_thumbnail .caption {
+  padding: 9px;
+  color: #333;
+ word-wrap: break-word;
+}
+
+
+.cde_grid figure {
+  margin: 0;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cde_grid figure img {
+  max-width: 100%;
+  display: block;
+  position: relative;
+}
+
+.cde_grid figcaption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 7px;
+  background: #2c3f52;
+  color: #ed4e6e;
+}
+
+.cde_grid figcaption h4 {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+
+
+.cde_grid figcaption a {
+  text-align: center;
+  padding: 5px 10px;
+  border-radius: 2px;
+  display: inline-block;
+  background: #ed4e6e;
+  color: #fff;
+}
+
+
+/* Caption Style 4 */
+.cde_thumbnail {
+  -webkit-perspective: 1700px;
+  -moz-perspective: 1700px;
+  perspective: 1700px;
+  -webkit-perspective-origin: 0 50%;
+  -moz-perspective-origin: 0 50%;
+  perspective-origin: 0 50%;
+}
+
+.cde_thumbnail figure {
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+
+.cde_thumbnail figure > .thumb {
+  overflow: hidden;
+}
+
+.cde_thumbnail figure img {
+  -webkit-transition: -webkit-transform 0.4s;
+  -moz-transition: -moz-transform 0.4s;
+  transition: transform 0.4s;
+  width: 100%;
+}
+
+.no-touch .cde_thumbnail figure:hover img,
+.cde_thumbnail figure.cs-hover img {
+  -webkit-transform: translateX(25%);
+  -moz-transform: translateX(25%);
+  -ms-transform: translateX(25%);
+  transform: translateX(25%);
+}
+
+.cde_thumbnail figcaption {
+  height: 100%;
+  width: 50%;
+  opacity: 0;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform-origin: 0 0;
+  -moz-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transform: rotateY(-90deg);
+  -moz-transform: rotateY(-90deg);
+  transform: rotateY(-90deg);
+  -webkit-transition: -webkit-transform 0.4s, opacity 0.1s 0.3s;
+  -moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s;
+  transition: transform 0.4s, opacity 0.1s 0.3s;
+}
+
+.no-touch .cde_thumbnail figure:hover figcaption,
+.cde_thumbnail figure.cs-hover figcaption {
+  opacity: 1;
+  -webkit-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+  -webkit-transition: -webkit-transform 0.4s, opacity 0.1s;
+  -moz-transition: -moz-transform 0.4s, opacity 0.1s;
+  transition: transform 0.4s, opacity 0.1s;
+}
+
+.cde_thumbnail figcaption a {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+figcaption  strong {
+  color: yellow!important;
+}
+
+.cde_bigim {
+  width: 100%;
+  overflow: hidden;
+  height: 400px;
+
+
+}
+
+.cde_bigim img {
+  width: 100%;
+  height: auto;
+      position: relative
+}
+
+.cde_clearfix {
+  clear: both;
+}
